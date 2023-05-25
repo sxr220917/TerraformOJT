@@ -1,0 +1,5 @@
+locals {
+
+  appName = "aws-ojt"
+  
+}
